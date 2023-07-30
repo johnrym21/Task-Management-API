@@ -1,0 +1,18 @@
+# Ignore virtual environment files
+venv/
+.env
+
+# Ignore database files
+db.sqlite
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.pyc
+
+# Ignore logs and cache
+logs/
+__pycache__/
+
+# Ignore sensitive or private information
+config.ini
