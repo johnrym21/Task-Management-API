@@ -2,8 +2,6 @@
 
 This is a Flask-based API for managing tasks.
 
-# Getting Started
-
 # Endpoints
 
 # Get all tasks
